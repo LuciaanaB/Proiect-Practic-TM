@@ -1,4 +1,7 @@
-# Proiect-Practic-TM
+# Proiect 
+# OrangeHRM Project
+## Test plan 
+
 ## Revision History
 #### Test Title
 | Date description | Version | Author | Comments |
