@@ -1,4 +1,4 @@
-# Proiect 
+# <h1 align= *center* >Proiect <h1>
 # OrangeHRM Project
 ## Test plan 
 
